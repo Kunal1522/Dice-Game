@@ -1,3 +1,3 @@
-# Dice Demo App
+# Dice Roller
 
-Dice Demo is a simple flutter project which just let you roll Dice
+A simple dice-rolling app built with Flutter. This app allows users to roll a dice with a tap of a button, providing a fun and interactive experience.
